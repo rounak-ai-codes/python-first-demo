@@ -1,2 +1,4 @@
 # python-first-demo
-authore - "rounak kumar"
+
+this my first program
+and python
